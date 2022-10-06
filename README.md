@@ -1,7 +1,7 @@
-- 👋 I'm @thomaswilder, a PhD student at UEA who is working alongside @davemunday, Xiaoming Zhai, and Manoj Joshi on mesoscale eddies and relative wind stress.
-- 👀 I’m interested in mesoscale eddies and high resolution modelling.
-- 🌱 I’m currently in the final stages of writing my PhD thesis.
-- 📫 You can reach me at t.wilder@uea.ac.uk
+- 👋 I'm @thomaswilder, a Postdoctoral researcher at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
+- 👀 I’m interested in mesoscale eddy-wind interaction and improving global circulation models.
+- 🌱 I’m currently implementing QG Leith in NEMO.
+- 📫 You can reach me at t.m.wilder@reading.ac.uk
 
 <!---
 tomwilder/tomwilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
