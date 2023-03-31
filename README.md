@@ -1,7 +1,7 @@
-- 👋 I'm @thomaswilder, a Postdoctoral researcher at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
-- 👀 I’m interested in mesoscale eddy-wind interaction and improving global circulation models.
-- 🌱 I’m currently implementing QG Leith in NEMO.
-- 📫 You can reach me at t.m.wilder@reading.ac.uk
+- 👋 I'm @thomaswilder, a research scientist at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
+- 👀 I’m interested model development, automation, and Linux.
+- 🌱 I’m currently implementing an ocean parameterisation in NEMO to improve the ocean circulation in ORCA025.
+- 📫 You can reach me at tmwilder@outlook.com
 
 <!---
 tomwilder/tomwilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
