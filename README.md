@@ -1,4 +1,4 @@
-- 👋 I'm @thomaswilder, a research scientist at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
+- 👋 I'm @thomaswilder, a Research Scientist at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
 - 👀 I’m interested in model development, automation, and Linux.
 - 🌱 I’m currently implementing an ocean parameterisation in NEMO to improve the ocean circulation in ORCA025.
 - 📫 You can reach me at tmwilder@outlook.com
