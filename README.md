@@ -1,6 +1,6 @@
-- 👋 I'm @thomaswilder, a Research Scientist at the University of Reading working alongside Till Kuhlbrodt to develop the NEMO code.
-- 👀 I’m interested in model development and data analysis tools.
-- 🌱 I’m currently working on developing physics-based and data-driven eddy parameterisations in NEMO ORCA025.
+- 👋 I'm @thomaswilder, a Research Scientist at the University of Reading.
+- 👀 I’m interested in how machine learning can be applied to problems in geophysical fluid dynamics.
+- 🌱 I’m currently working on developing machine learning subgrid-scale closures for the UK's Earth System Model.
 - 📫 You can reach me at tmwilder@outlook.com
 
 <!---
